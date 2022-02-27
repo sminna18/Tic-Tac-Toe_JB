@@ -1,2 +1,5 @@
 # Tic-Tac-Toe_JB
-Tic-tac-toe with 3 difficulty levels
+
+JetBrains Academy project
+
+Tic-tac-toe with 3 difficulty levels.
